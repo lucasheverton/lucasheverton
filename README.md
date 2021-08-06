@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LucasHeverton-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-heverton/)](https://www.linkedin.com/in/lucas-heverton/)
 [![Instagram Badge](https://img.shields.io/badge/-@_llucash-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/_llucash/)](https://www.instagram.com/_llucash/) 
 
-📨![](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)
 
 <hr>
 
