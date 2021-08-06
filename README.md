@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Vim%20pelo%20github.">
+<a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Te%20encontrei%20pelo%20github.">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
