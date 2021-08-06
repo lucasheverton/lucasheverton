@@ -31,7 +31,7 @@
 **[![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)**
 
 <hr>
-<div align="center">
+<div align="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top Languages" title="Top Languages" />
 </div>
