@@ -48,4 +48,4 @@
 
 <hr>
 
-![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg)
+<!-- Inserir o gif da cobrinha -->
