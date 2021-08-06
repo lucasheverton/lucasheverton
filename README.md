@@ -1,8 +1,6 @@
 # <img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px"> Hi there
 
-#### My name is Lucas Heverton, I'm a Front-End Developer/Student from Brazil, passionate about programming, technology, Linux and Security! coffeepurple_heart <img align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
-
-### 💻 Front End Developer
+#### My name is Lucas Heverton, I'm a Front-End Developer/Student from Brazil, passionate about programming, technology, Linux and Security! <img align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
 
 <hr>
 
