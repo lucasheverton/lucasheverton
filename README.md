@@ -21,7 +21,7 @@
 
 <hr>
 
-#### <kbd>Contatc</kbd><br>
+#### <kbd>Contatc to me ⤵ </kbd><br>
 
 <a href="https://www.instagram.com/_llucash/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
