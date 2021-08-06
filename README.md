@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-**[![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)**
+<a href="mailto:lucas.7heverton@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-%0078d4.svg?&style=for-the-badge&logo=Outlook&logoColor=white"/>
+</a>
 
 
 <hr>
