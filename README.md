@@ -15,8 +15,6 @@
 <code><img height="30" title="ReactJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" title="VueJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<hr>
-
 ####  <kbd>Other languages and tools:</kbd><br>
 <code><img height="30" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -25,11 +23,21 @@
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LucasHeverton-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-heverton/)](https://www.linkedin.com/in/lucas-heverton/)
-[![Instagram Badge](https://img.shields.io/badge/-@_llucash-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/_llucash/)](https://www.instagram.com/_llucash/) 
+#### <kbd>Contatc</kbd><br>
 
-**[![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)**
+<a href="https://www.instagram.com/_llucash/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/lucas-heverton/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Vim%20pelo%20github.">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+[Email:](https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=Outlook&logoColor=white)
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
