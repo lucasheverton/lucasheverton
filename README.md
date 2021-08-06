@@ -1,6 +1,6 @@
 # 🖐🏻 Hi there, i'm Lucas Heverton
 
-## 💻 Front End Developer
+### 💻 Front End Developer
 
 <hr>
 
@@ -17,7 +17,6 @@
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LucasHeverton-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-heverton/)](https://www.linkedin.com/in/lucas-heverton/)
-
 [![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-6633cc?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)
 
 <hr>
