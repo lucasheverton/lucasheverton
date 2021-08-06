@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-[Email:](https://img.shields.io/badge/Outlook-%230077B5.svg?&style=for-the-badge&logo=Outlook&logoColor=white)
+**[![Outlook Badge](https://img.shields.io/badge/-lucas.7heverton@hotmail.com-0078d4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucas.7heverton@hotmail.com)](mailto:lucas.7heverton@hotmail.com)**
+
+
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
