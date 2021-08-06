@@ -38,7 +38,7 @@
 </a>
 
 <a href="mailto:lucas.7heverton@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-%0078d4.svg?&style=for-the-badge&logo=Outlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/outlook-%230077E5.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
 </a>
 
 
