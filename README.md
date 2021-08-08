@@ -4,7 +4,7 @@
 
 <hr>
 
-####  ####  <kbd>Languages and tools:</kbd><br>
+<kbd>Languages and tools:</kbd><br>
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -19,7 +19,7 @@
 
 <hr>
 
-#### <kbd>Contatc to me ⤵ </kbd><br>
+<kbd>Contatc to me ⤵ </kbd><br>
 
 <a href="https://www.instagram.com/_llucash/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
