@@ -46,4 +46,4 @@
 
 <hr>
 
-![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/output/github-contribuiton-grid-snake.svg)
