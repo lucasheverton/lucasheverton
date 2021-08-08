@@ -46,4 +46,4 @@
 
 <hr>
 
-<!-- Inserir o gif da cobrinha -->
+![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/main/.github/workflows/main.yml)
