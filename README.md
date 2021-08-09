@@ -2,7 +2,7 @@
 
 #### My name is Lucas Heverton, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology, Linux and Security!
 
-<hr>
+<hr> <img align="right" width="25%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
 
 <kbd>Languages and tools:</kbd><br>
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/outlook-%230077E5.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
 </a>
 
-
 <hr>
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top Languages" title="Top Languages" />
