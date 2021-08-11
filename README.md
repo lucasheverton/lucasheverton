@@ -5,6 +5,7 @@
 <hr> <img align="right" width="25%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
 
 <kbd>Languages and tools:</kbd><br>
+
 <code>
   <img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </code>
