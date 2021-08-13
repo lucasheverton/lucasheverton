@@ -2,7 +2,7 @@
 
 #### My name is Lucas Heverton, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology, Linux and Security!
 
-<hr> <img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
+<hr> <img align="right" width="25%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
 
 <kbd>Languages and tools:</kbd><br>
 
