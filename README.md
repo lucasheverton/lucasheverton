@@ -76,6 +76,7 @@
   
   - [CodePen](https://codepen.io/lucasheverton)
   - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
+  - [Outlook](mailto:lucas.7heverton@hotmail.com)
 </details>
 
 <br>
