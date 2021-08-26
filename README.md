@@ -66,10 +66,6 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:lucas.7heverton@hotmail.com">
-  <img src="https://img.shields.io/badge/outlook-%230077E5.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
-</a>
-
 <hr>
 
 <details><summary><kbd>Show me ⤵</kbd></summary>
