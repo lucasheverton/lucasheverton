@@ -72,10 +72,8 @@
 
 <hr>
 
-
-  [CodePen](https://codepen.io/lucasheverton)
-  [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
-
+  - [CodePen](https://codepen.io/lucasheverton) <br/>
+  -[FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
 <br>
 
 <div align="center">
