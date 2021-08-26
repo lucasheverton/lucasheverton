@@ -70,12 +70,12 @@
 
 <details><summary><kbd>Show me ⤵</kbd></summary>
   
-  > [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br>
-  > [CodePen](https://codepen.io/lucasheverton)
-  > [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
-  > [Hackerrank](https://www.hackerrank.com/lucasheverton)
-  > [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton)
-  > [Outlook](mailto:lucas.7heverton@hotmail.com)
+  > [CodePen](https://codepen.io/lucasheverton) <br><br>
+  > [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br><br>
+  > [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br><br>
+  > [Hackerrank](https://www.hackerrank.com/lucasheverton) <br><br>
+  > [Outlook](mailto:lucas.7heverton@hotmail.com) <br><br>
+  > [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
 </details>
 
 <br>
