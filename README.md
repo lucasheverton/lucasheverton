@@ -54,23 +54,30 @@
 
 <kbd>Contatc to me ⤵ </kbd><br>
 
-<a href="https://www.instagram.com/_llucash/" target="_blank">
+<a href="https://www.instagram.com/_llucash/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/lucasheverton/" target="_blank">
+<a href="https://www.linkedin.com/in/lucasheverton/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Te%20encontrei%20pelo%20github." target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Te%20encontrei%20pelo%20github.">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:lucas.7heverton@hotmail.com" target="_blank">
+<a href="mailto:lucas.7heverton@hotmail.com">
   <img src="https://img.shields.io/badge/outlook-%230077E5.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
 </a>
 
 <hr>
+
+<details>
+  <summary><kbd> Show me ⤵</kbd></summary>
+  - [CodePen](https://codepen.io/lucasheverton)
+  - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
+</details>
+
 <br>
 
 <div align="center">
