@@ -70,6 +70,7 @@
 
 <details><summary><kbd>Show me ⤵</kbd></summary>
   
+  - [Duolingo](https://www.duolingo.com/profile/llucasheverton)
   - [CodePen](https://codepen.io/lucasheverton)
   - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
   - [Hackerrank](https://www.hackerrank.com/lucasheverton)
