@@ -72,7 +72,7 @@
 
 <hr>
 
-<details><summary><b><kbd>Contact</kbd></b></summary>
+<details><summary><kbd>Show me ⤵</kbd></summary>
   
   - [CodePen](https://codepen.io/lucasheverton)
   - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
