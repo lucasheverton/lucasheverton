@@ -72,6 +72,7 @@
   
   - [CodePen](https://codepen.io/lucasheverton)
   - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
+  - [Hackerrank](https://www.hackerrank.com/lucasheverton)
   - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton)
   - [Outlook](mailto:lucas.7heverton@hotmail.com)
 </details>
