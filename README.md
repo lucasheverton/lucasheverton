@@ -72,7 +72,7 @@
 
 <hr>
 
-<details><summary><kbd>Showme⤵</kbd></summary>
+<details><summary><b><kbd>Show me ⤵</kbd></b></summary>
   - [CodePen](https://codepen.io/lucasheverton)
   - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
 </details>
