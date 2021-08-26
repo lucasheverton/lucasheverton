@@ -80,10 +80,10 @@
 
 <br>
 
-<div align="center" width="100%">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top Languages" title="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top Languages" title="Top Languages" />
 </div>
 
 <hr>
