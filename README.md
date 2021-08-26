@@ -71,14 +71,6 @@
 </a>
 
 <hr>
-
-  
-<details><summary><b><kbd>Contact</kbd></b></summary>
-  
-  - [CodePen](https://codepen.io/lucasheverton)
-  - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton)
-  </details>
-  
 <br>
 
 <div align="center">
