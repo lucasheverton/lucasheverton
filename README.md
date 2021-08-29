@@ -16,15 +16,15 @@
   </a>
 
   <a href="https://github.com/lucasheverton">
+    <img height="30" title="JavaScript" alt="JavaScript" src="./img/javascript.svg">
+  </a>
+   
+  <a href="https://github.com/lucasheverton">
     <img height="30" title="Sass" alt="Sass" src="./img/sass.svg">
   </a>
 
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Bootstrap" alt="Bootstrap" src="./img/bootstrap.svg">
-  </a>
-  
-  <a href="https://github.com/lucasheverton">
-    <img height="30" title="JavaScript" alt="JavaScript" src="./img/javascript.svg">
   </a>
 
   <a href="https://github.com/lucasheverton">
@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://github.com/lucasheverton">
-    <img height="30" title="VueJs" alt="VueJs" src="./img/vuejs.svg">
+    <img height="30" title="VueJs" alt="VueJs" src="./img/vue.svg">
   </a>
 </div>
 
@@ -62,8 +62,21 @@
   </a>
    
   <a href="https://github.com/lucasheverton">
-    <img height="30" title="Terminal" alt="Terminal" src="./img/terminal.svg">
+    <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
+  </a><br>
+   
+   <a href="https://github.com/lucasheverton">
+    <img height="30" title="Github" alt="Github" src="./img/github.svg">
   </a>
+   
+   <a href="https://github.com/lucasheverton">
+    <img height="30" title="Gitlab" alt="Gitlab" src="./img/gitlab.svg">
+  </a>
+   
+   <a href="https://github.com/lucasheverton">
+    <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
+  </a>
+
 </div>
 
 <hr>
