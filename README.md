@@ -65,6 +65,10 @@
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
   </a>
 
+  <a href="https://github.com/lucasheverton">
+    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
+  </a>
+
 </div>
 
 <hr>
