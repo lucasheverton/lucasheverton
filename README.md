@@ -38,28 +38,6 @@
 
 <hr>
 
-<kbd>OS's:</kbd><br>
-
-<div style="display: inline-flex;">
-  <a>
-    <img height="30" title="Windons" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  </a>
-  
-  <a>
-    <img height="30" title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  </a>
-  
-  <a>
-    <img height="30" title="Mint" src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-  </a>
-  
-  <a>
-    <img height="30" title="Deepin" src="https://img.shields.io/badge/Deepin-31bff7?style=for-the-badge&logo=deepin&logoColor=white">
-  </a> 
-</div>
-
-<hr>
-
 <kbd>Other languages and tools:</kbd><br>
 
 <div style="display: inline-flex;">
