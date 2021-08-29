@@ -52,6 +52,10 @@
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Git" alt="Git" src="./img/git.svg">
   </a>
+   
+  <a href="https://github.com/lucasheverton">
+    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
+  </a>
   
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
@@ -63,12 +67,7 @@
    
    <a href="https://github.com/lucasheverton">
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton">
-    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
-  </a>
-
+   </a>
 </div>
 
 <hr>
