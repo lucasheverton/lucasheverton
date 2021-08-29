@@ -53,7 +53,6 @@
     <img height="30" title="Figma" src="https://img.shields.io/badge/Figma-a76cf2?style=for-the-badge&logo=figma&logoColor=000000">
   </a>
   
-  
   <a>
     <img height="30" title="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
   </a>
@@ -103,12 +102,12 @@
 
 <details><summary><kbd>Show me ⤵</kbd></summary>
   
-  > [CodePen](https://codepen.io/lucasheverton) <br>
-  > [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br>
-  > [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
-  > [Hackerrank](https://www.hackerrank.com/lucasheverton) <br>
-  > [Outlook](mailto:lucas.7heverton@hotmail.com) <br>
-  > [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
+  >   []()
+  > - [CodePen](https://codepen.io/lucasheverton) <br>
+  > - [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br>
+  > - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
+  > - [Hackerrank](https://www.hackerrank.com/lucasheverton) <br>
+  > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
 </details>
 
 <br>
