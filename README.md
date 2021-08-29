@@ -59,7 +59,7 @@
    
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
-  </a><br>
+  </a>
    
    <a href="https://github.com/lucasheverton">
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
