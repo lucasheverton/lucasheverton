@@ -56,22 +56,10 @@
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
   </a>
-
-  <a href="https://github.com/lucasheverton">
-    <img height="30" title="Markdown" alt="Markdown" src="./img/markdown.svg"/>
-  </a>
    
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
   </a><br>
-   
-   <a href="https://github.com/lucasheverton">
-    <img height="30" title="Github" alt="Github" src="./img/github.svg">
-  </a>
-   
-   <a href="https://github.com/lucasheverton">
-    <img height="30" title="Gitlab" alt="Gitlab" src="./img/gitlab.svg">
-  </a>
    
    <a href="https://github.com/lucasheverton">
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
