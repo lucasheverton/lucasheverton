@@ -81,22 +81,22 @@
 <kbd>Contatc to me:</kbd><br>
 
 <a href="https://www.instagram.com/_llucash/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"                                                 alt="Instagram Lucas Heverton" title="Instagram Lucas Heverton" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"                                                 alt="Instagram Lucas Heverton"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lucasheverton/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-  alt="Linkedin Lucas Heverton" title="Linkedin Lucas Heverton"/>
+  alt="Linkedin Lucas Heverton"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Te%20encontrei%20pelo%20github.">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-  alt="Whatsapp Lucas Heverton" title="Whatsapp Lucas Heverton"/>
+  alt="Whatsapp Lucas Heverton"/>
 </a>
 
 <a href="mailto:lucas.7heverton@hotmail.com">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-  alt="E-mail Lucas Heverton" title="E-mail Lucas Heverton"/>
+  alt="E-mail Lucas Heverton"/>
 </a>
 
 <hr>
