@@ -1,6 +1,9 @@
-# <img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px"> Hi there
+<div style="display: flex">  
+   <!--<img align="right" src="https://komarev.com/ghpvc/?username=lucasheverton" alt="lucasheverton" title="Profile Views Lucas Heverton ;)" />-->
+   <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="6%"><h1>I'm Lucas              Heverton</h1>
+</div>
 
-#### My name is Lucas Heverton, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology and Linux!
+<p>Hi, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology and Linux!</p>
 
 <hr> <img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
 
