@@ -1,8 +1,14 @@
-# <img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="45px"> Hi there
+<div style="display: flex">  
+   <img align="right" src="https://komarev.com/ghpvc/?username=lucasheverton&color=blueviolet" alt="lucasheverton" title="Profile Views Lucas Heverton ;)" />
+   <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Lucas Heverton"                title="Cat Lucas Heverton" width="6%">
+   <h1>I'm Lucas Heverton</h1>
+</div>
 
-#### My name is Lucas Heverton, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology, Linux and Security!
+<br>
 
-<hr> <img align="right" width="35%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar">
+<p>Hi, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology and Linux!</p>
+
+<hr> <img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar Lucas Heverton"     title="Avatar Lucas Heverton">
 
 <kbd>Front end:</kbd><br>
 
@@ -52,6 +58,10 @@
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Git" alt="Git" src="./img/git.svg">
   </a>
+   
+  <a href="https://github.com/lucasheverton">
+    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
+  </a>
   
   <a href="https://github.com/lucasheverton">
     <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
@@ -63,12 +73,7 @@
    
    <a href="https://github.com/lucasheverton">
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton">
-    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
-  </a>
-
+   </a>
 </div>
 
 <hr>
@@ -76,19 +81,22 @@
 <kbd>Contatc to me:</kbd><br>
 
 <a href="https://www.instagram.com/_llucash/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"                                                 alt="Instagram Lucas Heverton"/>
 </a>
 
 <a href="https://www.linkedin.com/in/lucasheverton/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+  alt="Linkedin Lucas Heverton"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5511991120429&text=Ol%C3%A1%2C%20Lucas!%20Te%20encontrei%20pelo%20github.">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+  alt="Whatsapp Lucas Heverton"/>
 </a>
 
 <a href="mailto:lucas.7heverton@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+  alt="E-mail Lucas Heverton"/>
 </a>
 
 <hr>
