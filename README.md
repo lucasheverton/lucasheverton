@@ -40,6 +40,14 @@
   <a href="https://github.com/lucasheverton">
     <img height="30" title="VueJs" alt="VueJs" src="./img/vue.svg">
   </a>
+   
+  <a href="https://github.com/lucasheverton">
+    <img height="30" title="Gulp" alt="Gulp" src="./img/gulp.svg">
+  </a>
+   
+  <a href="https://github.com/lucasheverton">
+    <img height="30" title="WordPress" alt="WordPress" src="./img/wordpress.svg">
+  </a>
 </div>
 
 <hr>
@@ -73,6 +81,14 @@
    
    <a href="https://github.com/lucasheverton">
     <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
+   </a>
+   
+   <a href="https://github.com/lucasheverton">
+    <img height="30" title="Bash" alt="Bash" src="./img/bash.svg">
+   </a>
+   
+   <a href="https://github.com/lucasheverton">
+    <img height="30" title="NPM" alt="NPM" src="./img/npm.svg">
    </a>
 </div>
 
