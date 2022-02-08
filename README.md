@@ -121,6 +121,7 @@
   > - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
   > - [Hackerrank](https://www.hackerrank.com/lucasheverton) <br>
   > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
+  > - [Steam](https://steamcommunity.com/id/lucasheverton/) <br>
 </details>
 
 <br>
