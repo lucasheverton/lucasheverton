@@ -116,10 +116,11 @@
 <details><summary><kbd>Show me ⤵</kbd></summary>
   
   >   []()
-  > - [CodePen](https://codepen.io/lucasheverton) <br>
+   
+  > - [Alura](https://cursos.alura.com.br/user/lucasheverton) <br>
   > - [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br>
   > - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
-  > - [Hackerrank](https://www.hackerrank.com/lucasheverton) <br>
+  > - [CodePen](https://codepen.io/lucasheverton) <br>
   > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
   > - [Steam](https://steamcommunity.com/id/lucasheverton/) <br>
 </details>
