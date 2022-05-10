@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Hi, I'm a Front-End Developer and Student from Brazil, passionate about programming, technology and Linux!</p>
+<p>Hi, I'm a Front-End Developer and Student from Brazil, passionate about programming, games and tech world.</p>
 
 <hr> <img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar Lucas Heverton"     title="Avatar Lucas Heverton">
 
