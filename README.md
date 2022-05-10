@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Hi, I'm a Front-End Developer and Student from Brazil, passionate about programming, games and tech world.</p>
+<p>Hi, I'm a Front-End Developer and Student from Brazil, graduated in information systemspassionate about programming, games and tech world.</p>
 
 <hr> <img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar Lucas Heverton"     title="Avatar Lucas Heverton">
 
@@ -110,6 +110,13 @@
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
   alt="E-mail Lucas Heverton"/>
 </a>
+
+<hr>
+
+<div>
+   <kbd><a href="https://google.com.br">Click to view my Certifications</a></kbd><br>
+   <kbd><a href="https://google.com.br">Click to view my Certificates</a></kbd>
+</div>
 
 <hr>
 
