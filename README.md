@@ -115,11 +115,11 @@
 
 <div>
    <div style="display: flex; align-items: center;">
-      <img style="padding-right: 8px;" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/000000/external-certification-running-flaticons-lineal-color-flat-icons-3.png"/>
+      <img style="padding-right: 8px;" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/25/000000/external-certification-running-flaticons-lineal-color-flat-icons-3.png"/>
       <kbd><a href="https://google.com.br">Click to view my Certifications</a></kbd>
    </div><br>
    <div style="display: flex; align-items: center;">
-      <img style="padding-right: 8px;" src="https://img.icons8.com/doodle/30/000000/certificate.png"/>
+      <img style="padding-right: 8px;" src="https://img.icons8.com/doodle/25/000000/certificate.png"/>
       <kbd><a href="https://google.com.br">Click to view my Certificates</a></kbd>
    </div>
 </div>
