@@ -116,11 +116,11 @@
 <div>
    <div style="display: flex; align-items: center;">
       <img style="padding-right: 10px;" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/25/000000/external-certification-running-flaticons-lineal-color-flat-icons-3.png"/>
-      <kbd><a href="https://drive.google.com/drive/folders/16OlZcA9INksvPurKGX4ednbn8j95HypI?usp=sharing">Click to view my Certifications</a></kbd>
+      <kbd><a href="https://drive.google.com/drive/folders/16OlZcA9INksvPurKGX4ednbn8j95HypI?usp=sharing" target="_blank">Click to view my Certifications</a></kbd>
    </div><br>
    <div style="display: flex; align-items: center;">
       <img style="padding-right: 10px;" src="https://img.icons8.com/doodle/25/000000/certificate.png"/>
-      <kbd><a href="https://drive.google.com/drive/folders/1cChLsA8CaE3x2_vW8MIkvGqns50tsD51?usp=sharing">Click to view my Certificates</a></kbd>
+      <kbd><a href="https://drive.google.com/drive/folders/1cChLsA8CaE3x2_vW8MIkvGqns50tsD51?usp=sharing" target="_blank">Click to view my Certificates</a></kbd>
    </div>
 </div>
 
@@ -148,4 +148,9 @@
 
 <hr>
 
-![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+   <img src="https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" title="Snake animation" />
+</div>
+
+<!-- ![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg) -->
+
