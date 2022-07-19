@@ -1,6 +1,6 @@
 <div style="display: flex">  
    <img align="right" src="https://komarev.com/ghpvc/?username=lucasheverton&color=blueviolet" alt="lucasheverton" title="Profile Views Lucas Heverton ;)" />
-   <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Lucas Heverton"                title="Cat Lucas Heverton" width="6%">
+   <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Lucas Heverton" title="Cat Lucas Heverton" width="60px">
    <h1>I'm Lucas Heverton</h1>
 </div>
 
