@@ -141,10 +141,11 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="lucasheverton" title="Lucas Heverton" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top Languages" title="Top Languages" />
+  <a href="https://github.com/lucasheverton">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
 </div>
+
 
 <hr>
 
