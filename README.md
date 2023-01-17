@@ -123,7 +123,6 @@
       <kbd><a href="https://drive.google.com/drive/folders/1cChLsA8CaE3x2_vW8MIkvGqns50tsD51?usp=sharing">Click to view my Certificates</a></kbd>
    </div>
 </div>
-->
 <hr>
 
 <details><summary><kbd>Show me ⤵</kbd></summary>
@@ -135,7 +134,6 @@
   > - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
   > - [CodePen](https://codepen.io/lucasheverton) <br>
   > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
-  > - [Steam](https://steamcommunity.com/id/lucasheverton/) <br>
 </details>
 
 <br>
