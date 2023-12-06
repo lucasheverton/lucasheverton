@@ -12,7 +12,7 @@
 
 <kbd>Front end:</kbd><br>
 
-<div style="display: inline-flex;">
+<div style="display: inline-flex;" style="text-decoration: none">
    <a href="https://github.com/lucasheverton">
     <img height="30" title="HTML5" alt="HTML5" src="./img/html5.svg">
   </a>
