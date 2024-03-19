@@ -125,11 +125,3 @@
   > - [CodePen](https://codepen.io/lucasheverton) <br>
   > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
 </details>
-
-
-<div align="center">
-   <img src="https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" title="Snake animation" />
-</div>
-
-<!-- ![Snake animation](https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg) -->
-
