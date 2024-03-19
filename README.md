@@ -126,20 +126,6 @@
   > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
 </details>
 
-<br>
-
-<!--
-
-<div align="center">
-  <a href="https://github.com/lucasheverton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasheverton&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
-</div>
-
-<hr>
-
--->
-
 
 <div align="center">
    <img src="https://github.com/lucasheverton/lucasheverton/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" title="Snake animation" />
