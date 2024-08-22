@@ -13,37 +13,14 @@
 <kbd>Front end:</kbd><br>
 
 <div style="display: inline-flex;">
-   <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="HTML5" alt="HTML5" src="./img/html5.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="CSS3" alt="CS33" src="./img/css3.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="JavaScript" alt="JavaScript" src="./img/javascript.svg">
-  </a>
-   
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Sass" alt="Sass" src="./img/sass.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Bootstrap" alt="Bootstrap" src="./img/bootstrap.svg">
-  </a>
-
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="VueJs" alt="VueJs" src="./img/vue.svg">
-  </a>
-   
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Gulp" alt="Gulp" src="./img/gulp.svg">
-  </a>
-   
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="WordPress" alt="WordPress" src="./img/wordpress.svg">
-  </a>
+   <img height="30" title="HTML5" alt="HTML5" src="./img/html5.svg">
+   <img height="30" title="CSS3" alt="CS33" src="./img/css3.svg">
+   <img height="30" title="JavaScript" alt="JavaScript" src="./img/javascript.svg">
+   <img height="30" title="Sass" alt="Sass" src="./img/sass.svg">
+   <img height="30" title="Bootstrap" alt="Bootstrap" src="./img/bootstrap.svg">
+   <img height="30" title="VueJs" alt="VueJs" src="./img/vue.svg">
+   <img height="30" title="Gulp" alt="Gulp" src="./img/gulp.svg">   
+   <img height="30" title="WordPress" alt="WordPress" src="./img/wordpress.svg">
 </div>
 
 <hr>
@@ -51,41 +28,15 @@
 <kbd>Other languages and tools:</kbd><br>
 
 <div style="display: inline-flex;">
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Java" alt="Java" src="./img/java.svg">
-  </a>
-  
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="C++" alt="C++" src="./img/cplusplus.svg">
-  </a>
-     
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Git" alt="Git" src="./img/git.svg">
-  </a>
-   
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
-  </a>
-  
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
-  </a>
-   
-  <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
-  </a>
-   
-   <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
-   </a>
-   
-   <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="Bash" alt="Bash" src="./img/bash.svg">
-   </a>
-   
-   <a href="https://github.com/lucasheverton" style="text-decoration: none!important;">
-    <img height="30" title="NPM" alt="NPM" src="./img/npm.svg">
-   </a>
+   <img height="30" title="Java" alt="Java" src="./img/java.svg">
+   <img height="30" title="C++" alt="C++" src="./img/cplusplus.svg">
+   <img height="30" title="Git" alt="Git" src="./img/git.svg">
+   <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
+   <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
+   <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
+   <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
+   <img height="30" title="Bash" alt="Bash" src="./img/bash.svg">
+   <img height="30" title="NPM" alt="NPM" src="./img/npm.svg">
 </div>
 
 <hr>
