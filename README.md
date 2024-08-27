@@ -43,7 +43,7 @@
 
 <kbd>Contatc to me:</kbd><br>
 
-<a href="https://www.linkedin.com/in/lucasheverton/">
+<a href="https://www.linkedin.com/in/lucasheverton/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
   alt="Linkedin Lucas Heverton"/>
 </a>
