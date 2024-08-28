@@ -49,8 +49,7 @@
 </a>
 
 <hr>
-
-<div>
+<!--<div>
    <div style="display: flex; align-items: center;">
       <img style="padding-right: 10px;" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/25/000000/external-certification-running-flaticons-lineal-color-flat-icons-3.png"/>
       <kbd><a href="https://drive.google.com/drive/folders/16OlZcA9INksvPurKGX4ednbn8j95HypI?usp=sharing">Click to view my Certifications</a></kbd>
@@ -59,9 +58,7 @@
       <img style="padding-right: 10px;" src="https://img.icons8.com/doodle/25/000000/certificate.png"/>
       <kbd><a href="https://drive.google.com/drive/folders/1cChLsA8CaE3x2_vW8MIkvGqns50tsD51?usp=sharing">Click to view my Certificates</a></kbd>
    </div>
-</div>
-<hr>
-
+</div>-->
 <details><summary><kbd>Show me ⤵</kbd></summary>
   
   >   []()
