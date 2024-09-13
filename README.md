@@ -1,69 +1,92 @@
-#  I'm Lucas Heverton
-
-
-<br>
-<div align="right">
-   <img src="https://komarev.com/ghpvc/?username=lucasheverton&color=blueviolet" alt="lucasheverton" title="Profile Views Lucas Heverton ;)">
+<div align="center">
+  <img height="200" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="lucas heverton" title="ilustrator lucas heverton" />
 </div>
 
-<br>
-<br>
-<br>
+###
 
-<p>Desenvolvedor Front-end, formado em Sistemas de Informação e pós-graduado em Segurança da Informação. Mais de 5 anos de Experiência com desenvolvimento Web.</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo lucas heverton"  />
+</div>
 
-<br>
+###
 
-<img align="right" width="30%" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="Avatar Lucas Heverton" title="Avatar Lucas Heverton">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasheverton&color=blueviolet" alt="lucasheverton" title="Profile Views lucas heverton ;)">
+</div>
 
-<br>
+###
 
-## Tecnologias
+<h1 align="center">Hello, i'm Lucas Heverton 🫡</h1>
 
-<br>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm from São Paulo e and frontend developer.<br><br>- 🔭 I work with the main front-end technologies.<br>- 📚 I'm learning TypeScript and Angular.<br>- ⚡ In my free time, I play video games and play the drums and keyboard.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
-   <img height="30" title="HTML5" alt="HTML5" src="./img/html5.svg">
-   <img height="30" title="CSS3" alt="CS33" src="./img/css3.svg">
-   <img height="30" title="JavaScript" alt="JavaScript" src="./img/javascript.svg">
-   <img height="30" title="Sass" alt="Sass" src="./img/sass.svg">
-   <img height="30" title="Bootstrap" alt="Bootstrap" src="./img/bootstrap.svg">
-   <img height="30" title="VueJs" alt="VueJs" src="./img/vue.svg">
-   <img height="30" title="Gulp" alt="Gulp" src="./img/gulp.svg">   
-   <img height="30" title="WordPress" alt="WordPress" src="./img/wordpress.svg">
-   <img height="30" title="Java" alt="Java" src="./img/java.svg">
-   <img height="30" title="C++" alt="C++" src="./img/cplusplus.svg">
-   <img height="30" title="Git" alt="Git" src="./img/git.svg">
-   <img height="30" title="VsCode" alt="VsCodes" src="./img/vscode.svg">
-   <img height="30" title="Figma" alt="Figma" src="./img/figma.svg">
-   <img height="30" title="Linux" alt="Linux" src="./img/linux.svg">
-   <img height="30" title="Windows" alt="Windows" src="./img/windows.svg">
-   <img height="30" title="Bash" alt="Bash" src="./img/bash.svg">
-   <img height="30" title="NPM" alt="NPM" src="./img/npm.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+<br>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
 </div>
 
-<br>
-<br>
+###
 
-## Contato
+<h3 align="left">🔥   My Stats :</h3>
 
-<br>
+###
 
-<a href="https://www.linkedin.com/in/lucasheverton/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-  alt="Linkedin Lucas Heverton"/>
-</a>
+![Top Langs Lucas Heverton](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact)
 
-<br>
-<br>
+###
 
-<details><summary><kbd>Show me ⤵</kbd></summary>
-  
-  >   []()
-   
-  > - [Alura](https://cursos.alura.com.br/user/lucasheverton) <br>
-  > - [Duolingo](https://www.duolingo.com/profile/llucasheverton) <br>
-  > - [FreeCodeCamp](https://www.freecodecamp.org/lucasheverton) <br>
-  > - [CodePen](https://codepen.io/lucasheverton) <br>
-  > - [Rocketseat](https://app.rocketseat.com.br/me/lucasheverton) <br>
-</details>
+<img src="https://raw.githubusercontent.com/lucasheverton/lucasheverton/output/snake.svg" alt="Snake animation" title="lucas heverton" />
+
+###
