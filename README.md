@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="180" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="lucas heverton" title="ilustrator lucas heverton" />
-</div>
+</div> -->
 
 ###
 
@@ -22,19 +22,17 @@
 
 ###
 
-<br>
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<br>
 
 <p align="left">I'm from São Paulo e and frontend developer.<br><br>- 🔭 I work with the main front-end technologies.<br>- 📚 I'm learning TypeScript and Angular.<br>- ⚡ In my free time, I play video games and play the drums and keyboard.</p>
 
-###
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -81,11 +79,11 @@
   <img width="12" />
 </div>
 
-###
+<br>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<br>
 
 <div align="center">
   <a href="https://github.com/lucasheverton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact" alt="lucas heverton"/></a><br><br>
