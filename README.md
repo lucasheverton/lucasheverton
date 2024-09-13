@@ -1,11 +1,13 @@
 <div align="center">
-  <img height="200" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="lucas heverton" title="ilustrator lucas heverton" />
+  <img height="180" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628513227122.png" alt="lucas heverton" title="ilustrator lucas heverton" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo lucas heverton"  />
+  <a href="https://www.linkedin.com/in/lucasheverton/" target="_blank" ref="nofollow">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo lucas heverton"  />
+  </a>
 </div>
 
 ###
