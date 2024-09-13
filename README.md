@@ -11,7 +11,7 @@
 </div>
 
 ###
-
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasheverton&color=blueviolet" alt="lucasheverton" title="Profile Views lucas heverton ;)">
 </div>
@@ -21,6 +21,8 @@
 <h1 align="center">Hello, i'm Lucas Heverton 🫡</h1>
 
 ###
+
+<br>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -85,9 +87,11 @@
 
 ###
 
-![Top Langs Lucas Heverton](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact)
+<div align="center">
+  <a href="https://github.com/lucasheverton"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasheverton&layout=compact" alt="lucas heverton"/></a><br><br>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66cd2123a22274ce5028c964?variant=dark&roadmaps=frontend%2Cvue%2Cjavascript%2Ctypescript" alt="roadmap.sh"/></a>
+</div>
 
-###
 
 <img src="https://raw.githubusercontent.com/lucasheverton/lucasheverton/output/snake.svg" alt="Snake animation" title="lucas heverton" />
 
