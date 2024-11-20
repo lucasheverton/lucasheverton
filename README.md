@@ -9,17 +9,23 @@
 <br>
 
 <div align="center">
-  <a href="https://lucasheverton.com">
+  <a href="https://lucasheverton.com" target="_blank" ref="nofollow">
     <img src="https://img.shields.io/static/v1?message=Portifolio&label=&color=white&logoColor=#171717&labelColor=&style=for-the-badge" height="25" alt="portifolio lucas heverton"  />
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucasheverton/" target="_blank" ref="nofollow">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo lucas heverton"  />
+  </a>
+
+  <a href="https://gitlab.com/lucasheverton" target="_blank" ref="nofollow">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab lucas heverton"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucasheverton/" target="_blank" ref="nofollow">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo lucas heverton"  />
-  </a>
+  
 </div>
 
 ###
