@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hello, i'm Lucas Heverton 🫡</h1>
+<h1 align="center">Hello, i'm Lucas Heverton</h1>
 
 ###
 
