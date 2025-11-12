@@ -28,7 +28,7 @@
 
 <br>
 
-<p align="left">I'm from São Paulo e and frontend developer.<br><br>- 🔭 I work with the main front-end technologies.<br>- 📚 I'm learning TypeScript and Angular.<br>- ⚡ In my free time, I play video games and play the drums and keyboard.</p>
+<p align="left">I'm from São Paulo and i curious developer.<br><br>- 🔭 I work with the main front-end technologies.<br>- 📚 I'm learning C# and backend universe.<br>- ⚡ In my free time, I play video games and play the drums and keyboard.</p>
 
 <br>
 
